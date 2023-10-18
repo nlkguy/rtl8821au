@@ -119,6 +119,7 @@ a modification or two to the Makefile).
 * Netis WF2180
 * Planex GW-450S
 * EDUP EP-1607
+* [TP-Link Archer T2U Plus](https://amzn.to/3aPjBir)
 * Numerous adapters that are based on the supported chipsets.
 
 Note: If you are looking for information about what adapter to buy,
